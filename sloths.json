@@ -1,0 +1,40 @@
+{
+  "sloths": [
+    {
+      "id": 1,
+      "name": "Perezoso de dos dedos",
+      "picture": "https://www.ecoregistros.org/site/images/dataimages/2016/05/29/151549/Choloepus-didactylus.JPG",
+      "fingers": 2
+    },
+    {
+      "id": 2,
+      "name": "Perezoso de dos dedos pigmeo",
+      "picture": "https://www.nationalgeographic.com.es/medio/2023/01/27/istock-922973974_74de6c7a_230127125524_2000x1500.webp",
+      "fingers": 2
+    },
+    {
+      "id": 3,
+      "name": "Perezoso de tres dedos de garganta marrón",
+      "picture": "https://media.istockphoto.com/id/1068395160/es/foto/pereza-en-costa-rica.jpg?s=612x612&w=0&k=20&c=sniA9IhBQkUOQnkeV1E8jd1JsmGWLD70sVQUEcy-EHc=",
+      "fingers": 3
+    },
+    {
+      "id": 4,
+      "name": "Perezoso de tres dedos de garganta pálida",
+      "picture": "https://s3.animalia.bio/animals/photos/full/1.25x1/perezoso-la-mochila.webp",
+      "fingers": 3
+    },
+    {
+      "id": 5,
+      "name": "Perezoso de tres dedos pigmeo",
+      "picture": "https://palmoildetectivez.files.wordpress.com/2021/03/maned-three-toed-sloth-bradypus-torquatus.jpg",
+      "fingers": 3
+    },
+    {
+      "id": 3,
+      "name": "Perezoso de tres dedos de manchas claras",
+      "picture": "https://lumiere-a.akamaihd.net/v1/images/zootopia_271be187.png?region=0,28,630,354",
+      "fingers": 3
+    }
+  ]
+}

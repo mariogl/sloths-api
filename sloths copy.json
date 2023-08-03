@@ -1,0 +1,40 @@
+{
+  "sloths": [
+    {
+      "id": 1,
+      "name": "Perezoso de dos dedos",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 2
+    },
+    {
+      "id": 2,
+      "name": "Perezoso de dos dedos pigmeo",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 2
+    },
+    {
+      "id": 3,
+      "name": "Perezoso de tres dedos de garganta marrón",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 3
+    },
+    {
+      "id": 4,
+      "name": "Perezoso de tres dedos de garganta pálida",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 3
+    },
+    {
+      "id": 5,
+      "name": "Perezoso de tres dedos pigmeo",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 3
+    },
+    {
+      "id": 3,
+      "name": "Perezoso de tres dedos de manchas claras",
+      "picture": "https://prettier.io/icon.png",
+      "fingers": 3
+    }
+  ]
+}
